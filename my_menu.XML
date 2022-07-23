@@ -1,0 +1,37 @@
+<menu>
+  <food>
+    <name>Pizza</name>
+    <price>$20</price>
+    <calorie>2000</calorie>
+  </food>
+  <food>
+    <name>Hotdog</name>
+    <price>$12</price>
+    <calorie>490</calorie>
+  </food>
+  <food>
+    <name>Hamburger</name>
+    <price>$25</price>
+    <calorie>560</calorie>
+  </food>
+  <food>
+    <name>Somtum</name>
+    <price>$15</price>
+    <calorie>320</calorie>
+  </food>
+  <food>
+    <name>Timsum</name>
+    <price>$30</price>
+    <calorie>500</calorie>
+  </food>
+  <food>
+    <name>Noodle</name>
+    <price>$20</price>
+    <calorie>230</calorie>
+  </food>
+  <food>
+    <name>French Fried</name>
+    <price>$15</price>
+    <calorie>330</calorie>
+  </food>
+</menu>
