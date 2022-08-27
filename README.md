@@ -1,7 +1,4 @@
-# my_first_XML
-just for fun - learning xml
-
-## My skills
+My skills
 
 - Spreadsheets
 - SQL Databases
