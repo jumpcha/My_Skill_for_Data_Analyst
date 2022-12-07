@@ -24,4 +24,4 @@ mtcars <- select(mtcars, model, everything())
 # Data Pipeline
 ## Like a => select(mtcars, mpg, hp, wt)
 mtcars %>%
-		select(mpg, hp, wt)
+	select(mpg, hp, wt)
